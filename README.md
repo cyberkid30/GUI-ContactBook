@@ -24,7 +24,7 @@ A GUI ContactBook made using PYTHON &amp; mySQL.
  
  
 
-**Instructions**
+**Instructions**  
  _-Download all the files and especially the Dependencies Folder as all the image assests are located in the respective folder.   
  -Install requirements.txt file with ```pip install -r requirements.txt```.   
  -Don't delete the Test folder in ```Dependencies\User Data```._  
