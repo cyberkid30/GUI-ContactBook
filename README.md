@@ -4,17 +4,17 @@ A GUI ContactBook made using PYTHON &amp; mySQL.
 ![image](https://user-images.githubusercontent.com/81703042/192133152-60200547-2f1f-4bcd-9ff4-f1dbe156800c.png)
 
 **_GUI based ContactBook made using:_**
- **-Python 
- -Tkinter Library (For GUI)
- -mySQL (In Backend for Data Storage and Management)
- **
+ **-Python**
+ **-Tkinter Library (For GUI)**
+ **-mySQL (In Backend for Data Storage and Management)**
+
  
 **_**Features of ContactBook:**_**
 
  **-Simple GUI to navigate through program.**
  ![image](https://user-images.githubusercontent.com/81703042/192133323-3bb8e6c8-7a88-4380-b134-eebef056d0c7.png)
  
-** -Limitless adding of contacts with feature to edit and delete the existing contact.**
+ **-Limitless adding of contacts with feature to edit and delete the existing contact.**
  ![image](https://user-images.githubusercontent.com/81703042/192133387-cc03ecb4-c92e-4ccf-b1d0-71e8c87c8017.png)
  
  **-Search Command to easily find the Contacts.**
@@ -35,6 +35,6 @@ A GUI ContactBook made using PYTHON &amp; mySQL.
 -**Logged.txt** = _It contains the name of profile currently in use._
 -**sqlpass.txt** = _It contains mySQL password which is asked when the application is used for first time and python will seek password from the respective file everytime it runs._
 
-**Made By:
- Manan Tandel(![@CyberKid](https://github.com/cyberkid30)){Coding and Backend}
- Harsh Patel(![@Harsh3304](https://github.com/Harsh3304)){GUI and Assets}**
+**Made By:**
+ **Manan Tandel(![@CyberKid](https://github.com/cyberkid30)){Coding and Backend}**
+ **Harsh Patel(![@Harsh3304](https://github.com/Harsh3304)){GUI and Assets}**
