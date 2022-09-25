@@ -32,8 +32,13 @@ A GUI ContactBook made using PYTHON &amp; mySQL.
  -It will basically add some default contacts to the profile you have selected.
  -You can then edit thoose contacts and even delete it._
  
+ 
+ 
 -**Logged.txt** = _It contains the name of profile currently in use._
+
 -**sqlpass.txt** = _It contains mySQL password which is asked when the application is used for first time and python will seek password from the respective file everytime it runs._
+
+
 
 **Made By:**
 
