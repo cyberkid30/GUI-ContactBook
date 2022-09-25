@@ -22,10 +22,14 @@ A GUI ContactBook made using PYTHON &amp; mySQL.
  
  **-User can have multiple profiles in same device using Profile Change option.**
  
+ 
+
 **Instructions**
  _-Download all the files and especially the Dependencies Folder as all the image assests are located in the respective folder.
  -Install requirements.txt file with ```pip install -r requirements.txt```.
  -Don't delete the Test folder in ```Dependencies\User Data```._
+
+
 
 ```RandomiserForTest.py``` Usage:
  _-This is file which can be used to test the ContactBook.
@@ -40,8 +44,7 @@ A GUI ContactBook made using PYTHON &amp; mySQL.
 
 
 
-**Made By:**
+**Made By:** 
 
-**-Manan Tandel(![@CyberKid](https://github.com/cyberkid30)){Coding and Backend}**
-
-**-Harsh Patel(![@Harsh3304](https://github.com/Harsh3304)){GUI and Assets}**
+**-Manan Tandel(![@CyberKid](https://github.com/cyberkid30)){Coding and Backend}** 
+**-Harsh Patel(![@Harsh3304](https://github.com/Harsh3304)){GUI and Assets}** 
