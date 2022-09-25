@@ -36,5 +36,6 @@ A GUI ContactBook made using PYTHON &amp; mySQL.
 -**sqlpass.txt** = _It contains mySQL password which is asked when the application is used for first time and python will seek password from the respective file everytime it runs._
 
 **Made By:**
+
  **-Manan Tandel(![@CyberKid](https://github.com/cyberkid30)){Coding and Backend}**
  **-Harsh Patel(![@Harsh3304](https://github.com/Harsh3304)){GUI and Assets}**
