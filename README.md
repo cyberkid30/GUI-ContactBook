@@ -3,10 +3,10 @@ A GUI ContactBook made using PYTHON &amp; mySQL.
 
 ![image](https://user-images.githubusercontent.com/81703042/192133152-60200547-2f1f-4bcd-9ff4-f1dbe156800c.png)
 
-**_GUI based ContactBook made using:_**
- **-Python**
- **-Tkinter Library (For GUI)**
- **-mySQL (In Backend for Data Storage and Management)**
+**_GUI based ContactBook made using:_**  
+ **-Python**  
+ **-Tkinter Library (For GUI)**  
+ **-mySQL (In Backend for Data Storage and Management)**  
 
  
 **_**Features of ContactBook:**_**
