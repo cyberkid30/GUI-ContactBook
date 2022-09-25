@@ -46,5 +46,5 @@ A GUI ContactBook made using PYTHON &amp; mySQL.
 
 **Made By:** 
 
-**-Manan Tandel(![@CyberKid](https://github.com/cyberkid30)){Main Backend Coding}**.  
+**-Manan Tandel(![@CyberKid](https://github.com/Manan3044)){Main Backend Coding}**.  
 **-Harsh Patel(![@Harsh3304](https://github.com/Harsh3304)){GUI and Assets}** 
