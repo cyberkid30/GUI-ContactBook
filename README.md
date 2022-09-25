@@ -20,7 +20,8 @@ A GUI ContactBook made using PYTHON &amp; mySQL.
  **-Search Command to easily find the Contacts.**
  ![image](https://user-images.githubusercontent.com/81703042/192133416-5325b9ca-227e-4469-babe-ffda70cc663b.png)
  
- **-User can have multiple profiles in same device using Profile Change option.**
+ **-Easy Category wise sorting options.**
+ ![image](https://user-images.githubusercontent.com/81703042/192134464-fbb9f49e-dbaf-4ea4-b312-f0a6f1f9a188.png)
  
  
 
@@ -45,5 +46,5 @@ A GUI ContactBook made using PYTHON &amp; mySQL.
 
 **Made By:** 
 
-**-Manan Tandel(![@CyberKid](https://github.com/cyberkid30)){Coding and Backend}**.  
+**-Manan Tandel(![@CyberKid](https://github.com/cyberkid30)){Main Backend Coding}**.  
 **-Harsh Patel(![@Harsh3304](https://github.com/Harsh3304)){GUI and Assets}** 
