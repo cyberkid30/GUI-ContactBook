@@ -1,0 +1,6 @@
+pathlib==1.0.1
+mysql_connector==2.2.9
+pillow==8.1.2
+numpy==1.19.3
+
+
