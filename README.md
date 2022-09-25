@@ -9,7 +9,7 @@ A GUI ContactBook made using PYTHON &amp; mySQL.
  -mySQL (In Backend for Data Storage and Management)
  **
  
-_**Features of ContactBook:**_
+**_**Features of ContactBook:**_**
 
  **-Simple GUI to navigate through program.**
  ![image](https://user-images.githubusercontent.com/81703042/192133323-3bb8e6c8-7a88-4380-b134-eebef056d0c7.png)
